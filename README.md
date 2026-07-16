@@ -3,11 +3,16 @@
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![CI](https://github.com/Marincho09/dutch-sme-acquisition-scout-prototype/actions/workflows/ci.yml/badge.svg)](https://github.com/Marincho09/dutch-sme-acquisition-scout-prototype/actions/workflows/ci.yml)
+[![Live demo](https://img.shields.io/badge/Live_demo-Open_prototype-34523a)](https://dutch-sme-acquisition-scout-prototy-cyan.vercel.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A polished interactive prototype for researching, enriching, and ranking Dutch SME acquisition targets. Upload a two-column CSV and receive evidence-linked acquisition profiles, transparent scorecards, a ranked target library, and personalized founder outreach.
 
 > Portfolio status: the full application runs locally and in Vercel-compatible environments. It includes a curated ten-company demo, so reviewers can explore the workflow without an API key.
+
+## Live prototype
+
+**[Open the Dutch SME Acquisition Scout](https://dutch-sme-acquisition-scout-prototy-cyan.vercel.app/)** and select **Use 10-company sample** to explore the complete research, ranking, scorecard, profile, outreach, and export workflow without installing anything.
 
 ## Product highlights
 
