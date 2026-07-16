@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Search Fund Sourcing Copilot",
-  description: "Research, enrich and rank Dutch SME acquisition targets.",
+  title: "Dutch SME Acquisition Scout — Interactive Prototype",
+  description: "An interactive prototype for researching and ranking Dutch SME acquisition targets using public evidence.",
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {

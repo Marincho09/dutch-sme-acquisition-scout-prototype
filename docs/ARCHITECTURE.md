@@ -2,7 +2,7 @@
 
 ## System shape
 
-Search Fund Sourcing Copilot is a stateless Next.js application with one server-side analysis boundary and browser-local result persistence.
+Dutch SME Acquisition Scout is a stateless Next.js interactive prototype with one server-side analysis boundary and browser-local result persistence.
 
 - `components/dashboard.tsx` owns CSV selection, progress, ranking, export, and navigation state.
 - `app/api/analyze/route.ts` validates each request, selects live or demo mode, and returns one assessment.

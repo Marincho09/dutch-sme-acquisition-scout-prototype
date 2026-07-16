@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for improving Search Fund Sourcing Copilot.
+Thanks for improving Dutch SME Acquisition Scout.
 
 1. Create a focused branch from `main`.
 2. Install dependencies with `pnpm install`.

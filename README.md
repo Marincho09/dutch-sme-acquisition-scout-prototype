@@ -1,11 +1,11 @@
-# Search Fund Sourcing Copilot
+# Dutch SME Acquisition Scout — Interactive Prototype
 
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![CI](https://github.com/Marincho09/search-fund-sourcing-copilot/actions/workflows/ci.yml/badge.svg)](https://github.com/Marincho09/search-fund-sourcing-copilot/actions/workflows/ci.yml)
+[![CI](https://github.com/Marincho09/dutch-sme-acquisition-scout-prototype/actions/workflows/ci.yml/badge.svg)](https://github.com/Marincho09/dutch-sme-acquisition-scout-prototype/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-A polished MVP for researching, enriching, and ranking Dutch SME acquisition targets. Upload a two-column CSV and receive evidence-linked acquisition profiles, transparent scorecards, a ranked target library, and personalized founder outreach.
+A polished interactive prototype for researching, enriching, and ranking Dutch SME acquisition targets. Upload a two-column CSV and receive evidence-linked acquisition profiles, transparent scorecards, a ranked target library, and personalized founder outreach.
 
 > Portfolio status: the full application runs locally and in Vercel-compatible environments. It includes a curated ten-company demo, so reviewers can explore the workflow without an API key.
 

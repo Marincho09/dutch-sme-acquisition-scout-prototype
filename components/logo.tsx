@@ -8,8 +8,8 @@ export function Logo({ compact = false }: { compact?: boolean }) {
       </div>
       {!compact && (
         <div className="leading-tight">
-          <div className="text-[15px] font-semibold tracking-tight text-ink">Sourcing Copilot</div>
-          <div className="text-[10px] font-bold uppercase tracking-[.16em] text-moss-500">Search fund intelligence</div>
+          <div className="text-[15px] font-semibold tracking-tight text-ink">Acquisition Scout</div>
+          <div className="text-[10px] font-bold uppercase tracking-[.14em] text-moss-500">Dutch SME · Prototype</div>
         </div>
       )}
     </div>
